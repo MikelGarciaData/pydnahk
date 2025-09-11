@@ -1,0 +1,70 @@
+Sequence,Forward Primer,Reverse Primer
+M61151.1,"ID: f5995
+Name: f5995
+Description: f5995 M61151.1
+Number of features: 0
+/molecule_type=DNA
+Dseq(-28)
+ttgaattcGTCGACAGTCGCAACAGCAA
+aacttaagCAGCTGTCAGCGTTGTCGTT","ID: r5995
+Name: r5995
+Description: r5995 M61151.1
+Number of features: 0
+/molecule_type=DNA
+Dseq(-28)
+ttgaattcGTCGACGTTTGCCGGCGAGG
+aacttaagCAGCTGCAAACGGCCGCTCC"
+X51424.1,"ID: f1128
+Name: f1128
+Description: f1128 X51424.1
+Number of features: 0
+/molecule_type=DNA
+Seq('ttgaattcGATCGATTACAAACAATTGAGAACGA')","ID: r1128
+Name: r1128
+Description: r1128 X51424.1
+Number of features: 0
+/molecule_type=DNA
+Seq('ttgaattcGCAGATGTTGCTAAAAGTAATTTCTTAAAC')"
+PV006683.1,"ID: f957
+Name: f957
+Description: f957 PV006683.1
+Number of features: 0
+/molecule_type=DNA
+Dseq(-28)
+ttgaattcGTGTCGGTCATCGAATCCAC
+aacttaagCACAGCCAGTAGCTTAGGTG","ID: r957
+Name: r957
+Description: r957 PV006683.1
+Number of features: 0
+/molecule_type=DNA
+Dseq(-28)
+ttgaattcTCAGCGCGCGCCGGACAGAT
+aacttaagAGTCGCGCGCGGCCTGTCTA"
+PV006682.1,"ID: f816
+Name: f816
+Description: f816 PV006682.1
+Number of features: 0
+/molecule_type=DNA
+Dseq(-28)
+ttgaattcATGGCGCACGGGCTGGGTGG
+aacttaagTACCGCGTGCCCGACCCACC","ID: r816
+Name: r816
+Description: r816 PV006682.1
+Number of features: 0
+/molecule_type=DNA
+Seq('ttgaattcTTATAAGTCGACATGCGCGTCTCCTTGCTTCGCTGG')"
+OR455449.1,"ID: f1983
+Name: f1983
+Description: f1983 OR455449.1
+Number of features: 0
+/molecule_type=DNA
+Dseq(-28)
+ttgaattcATGTGTTGCGAAGATCACCT
+aacttaagTACACAACGCTTCTAGTGGA","ID: r1983
+Name: r1983
+Description: r1983 OR455449.1
+Number of features: 0
+/molecule_type=DNA
+Dseq(-28)
+ttgaattcTCATCCTGTCATGTCCCTGC
+aacttaagAGTAGGACAGTACAGGGACG"

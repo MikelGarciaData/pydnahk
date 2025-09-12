@@ -1,56 +1,6 @@
-Sequence,Forward Primer,Reverse Primer
-M61151.1,"ID: f5995
-Name: f5995
-Description: f5995 M61151.1
-Number of features: 0
-/molecule_type=DNA
-Seq('GTCGACAGTCGCAACAG')","ID: r5995
-Name: r5995
-Description: r5995 M61151.1
-Number of features: 0
-/molecule_type=DNA
-Seq('GTCGACGTTTGCCGG')"
-X51424.1,"ID: f1128
-Name: f1128
-Description: f1128 X51424.1
-Number of features: 0
-/molecule_type=DNA
-Seq('GATCGATTACAAACAATTGAGAACGA')","ID: r1128
-Name: r1128
-Description: r1128 X51424.1
-Number of features: 0
-/molecule_type=DNA
-Seq('GCAGATGTTGCTAAAAGTAATTTCTTAAAC')"
-PV006683.1,"ID: f957
-Name: f957
-Description: f957 PV006683.1
-Number of features: 0
-/molecule_type=DNA
-Seq('GTGTCGGTCATCGAATCCA')","ID: r957
-Name: r957
-Description: r957 PV006683.1
-Number of features: 0
-/molecule_type=DNA
-Seq('TCAGCGCGCGCC')"
-PV006682.1,"ID: f816
-Name: f816
-Description: f816 PV006682.1
-Number of features: 0
-/molecule_type=DNA
-Seq('ATGGCGCACGGGC')","ID: r816
-Name: r816
-Description: r816 PV006682.1
-Number of features: 0
-/molecule_type=DNA
-Seq('TTATAAGTCGACATGCGCGTC')"
-OR455449.1,"ID: f1983
-Name: f1983
-Description: f1983 OR455449.1
-Number of features: 0
-/molecule_type=DNA
-Seq('ATGTGTTGCGAAGATCACCT')","ID: r1983
-Name: r1983
-Description: r1983 OR455449.1
-Number of features: 0
-/molecule_type=DNA
-Seq('TCATCCTGTCATGTCCCTG')"
+Gene,Forward Primer,Forward Tm,Forward GC%,Reverse Primer,Reverse Tm,Reverse GC%
+M61151.1,ttgaattcGTCGACAGTCGCAACAGCAA,69.44,46.43,ttggatccGTCGACGTTTGCCGGCGAGG,76.9,64.29
+X51424.1,ttgaattcGATCGATTACAAACAATTGAGAACGA,65.25,32.35,ttggatccGCAGATGTTGCTAAAAGTAATTTCTTAAAC,67.26,34.21
+PV006683.1,ttgaattcGTGTCGGTCATCGAATCCAC,67.55,46.43,ttggatccTCAGCGCGCGCCGGACAGAT,78.08,64.29
+PV006682.1,ttgaattcATGGCGCACGGGCTGGGTGG,76.05,60.71,ttggatccTTATAAGTCGACATGCGCGTCTCCTTGCTTCGCTGG,78.02,52.27
+OR455449.1,ttgaattcATGTGTTGCGAAGATCACCT,65.54,39.29,ttggatccTCATCCTGTCATGTCCCTGC,70.57,53.57
